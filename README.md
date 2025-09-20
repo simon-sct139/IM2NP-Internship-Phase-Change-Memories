@@ -12,7 +12,7 @@
 
 ## 📋 Project Overview
 
-This research internship focused on **multi-physics simulation** using **COMSOL Multiphysics** to model the thermal phenomena involved in the operation of next-generation non-volatile memories. The core objective was to simulate the nanosecond laser pulse heating of multilayer structures based on **Ge₂Sb₂Te₅ (GST)** and related phase-change materials to understand the thermal conditions required for the **amorphous-to-crystalline phase transition**.
+This research internship focused on **multi-physics simulation** using **COMSOL Multiphysics** to model the thermal phenomena involved in the operation of next-generation non-volatile memories. The core objective was to simulate the laser pulse heating of multilayer structures based on **Ge₂Sb₂Te₅ (GST)** and related phase-change materials to understand the thermal conditions required for the **amorphous-to-crystalline phase transition**.
 
 The model accounted for heat propagation through complex material stacks, including a TiN surface layer and a silicon substrate, with the goal of optimizing the energy efficiency and reliability of PCM devices.
 
