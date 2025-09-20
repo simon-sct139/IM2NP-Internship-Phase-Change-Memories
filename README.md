@@ -6,7 +6,7 @@
 
 **Repository Summary:** This repository documents the methodology and skills developed during my research internship on the numerical modeling of laser-induced heating in phase-change memory (PCM) structures. The project was conducted at the **Institute of Materials, Microelectronics and Nanosciences of Provence (IM2NP)** in collaboration with **STMicroelectronics**.
 
-**Note on Confidentiality:** The specific details of the material stack, geometric parameters, and simulation files are the intellectual property of IM2NP and STMicroelectronics and are not disclosed here. This portfolio serves to illustrate the technical approach and competencies gained.
+**Note on Confidentiality:** The specific details of the material stack, geometric parameters, and simulation files are the intellectual property of IM2NP. This portfolio serves to illustrate the technical approach and competencies gained.
 
 ---
 
