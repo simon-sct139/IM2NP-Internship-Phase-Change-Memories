@@ -33,7 +33,17 @@ The model accounted for heat propagation through complex material stacks, includ
 
 ## 📊 Weekly Progress & Presentations
 
-A key part of the internship involved weekly presentations to the research team to discuss progress, results, and next steps. This practice was essential for receiving feedback and guiding the project's direction.
+A key part of the internship involved regular presentations to the research team to discuss progress, results, and next steps. This practice was essential for receiving feedback and guiding the project's direction.
+These presentations tracked the validation, development, and application of the simulation model.
+| Presentation | Key Focus Area |
+| :--- | :--- |
+| **#1: Model Validation** | Reproduced an existing model from the literature to validate our simulation approach and ensure the reliability of our COMSOL setup. |
+| **#2: Model Development** | Began constructing the specific model for our multilayer GST-based structure, defining the geometry and initial boundary conditions. |
+| **#3: Physics Implementation** | Advanced the model by fully implementing the heat transfer physics, focusing on the laser source definition and material interfaces. |
+| **#4: Parametric Analysis** | Performed systematic variations of key material properties (e.g., thermal conductivity, absorption coefficient) to study their impact on the temperature distribution and phase transition criteria. |
+| **#COMSOL Guide** | Created and delivered a tutorial presentation for the research team, detailing a step-by-step guide to replicating a basic COMSOL model from scratch, using a simple example to ensure knowledge transfer. |
+
+*(The actual presentation slides contain confidential information and are not included in this public repository.)`
 
 ## 🚀 Competencies Developed
 
