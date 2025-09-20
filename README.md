@@ -1,7 +1,6 @@
 # Thermal Modeling of Laser-Induced Phase-Change in Innovative Memories
 
 ![COMSOL Multiphysics](https://img.shields.io/badge/COMSOL-Multiphysics-%230078D4?logo=comsol)
-![Python](https://img.shields.io/badge/Analysis-Python-%233776AB?logo=python)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![License](https://img.shields.io/badge/License-Custom-blue)
 
