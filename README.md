@@ -39,7 +39,7 @@ These presentations tracked the validation, development, and application of the 
 | :--- | :--- |
 | **#1: Model Validation** | Reproduced an existing model from the literature to validate our simulation approach and ensure the reliability of our COMSOL setup. |
 | **#2: Model Development** | Began constructing the specific model for our multilayer GST-based structure, defining the geometry and initial boundary conditions. |
-| **#3: Physics Implementation** | Advanced the model by fully implementing the heat transfer physics, focusing on the laser source definition and material interfaces. |
+| **#3: Optimisation** | Advanced the model by fully implementing the heat transfer physics, focusing on the accuracy of the model. |
 | **#4: Parametric Analysis** | Performed systematic variations of key material properties (e.g., thermal conductivity, absorption coefficient) to study their impact on the temperature distribution and phase transition criteria. |
 | **#COMSOL Guide** | Created and delivered a tutorial presentation for the research team, detailing a step-by-step guide to replicating a basic COMSOL model from scratch, using a simple example to ensure knowledge transfer. |
 
