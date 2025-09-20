@@ -31,7 +31,7 @@ The model accounted for heat propagation through complex material stacks, includ
 *   Quantified key metrics: maximum temperature reached in the active layer, heating/cooling rates, and thermal gradients.
 *   Visualized results: 2D/3D temperature distribution plots, time-temperature profiles, and comparative charts.
 
-## 📊 Weekly Progress & Presentations
+## 📊 Progress & Presentations
 
 A key part of the internship involved regular presentations to the research team to discuss progress, results, and next steps. This practice was essential for receiving feedback and guiding the project's direction.
 These presentations tracked the validation, development, and application of the simulation model.
